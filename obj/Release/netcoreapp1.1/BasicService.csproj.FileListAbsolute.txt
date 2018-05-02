@@ -1,0 +1,11 @@
+C:\Users\Jerry\source\repos\BasicService\BasicService\bin\Release\netcoreapp1.1\BasicService.deps.json
+C:\Users\Jerry\source\repos\BasicService\BasicService\bin\Release\netcoreapp1.1\BasicService.runtimeconfig.json
+C:\Users\Jerry\source\repos\BasicService\BasicService\bin\Release\netcoreapp1.1\BasicService.runtimeconfig.dev.json
+C:\Users\Jerry\source\repos\BasicService\BasicService\bin\Release\netcoreapp1.1\BasicService.dll
+C:\Users\Jerry\source\repos\BasicService\BasicService\bin\Release\netcoreapp1.1\BasicService.pdb
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.csprojResolveAssemblyReference.cache
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.csproj.CoreCompileInputs.cache
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.AssemblyInfoInputs.cache
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.AssemblyInfo.cs
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.dll
+C:\Users\Jerry\source\repos\BasicService\BasicService\obj\Release\netcoreapp1.1\BasicService.pdb
